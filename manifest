@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: demo3
+moduleid: titutorial.demo3
+guid: caf4e7a7-e175-475e-9920-aa9ef4b04bf2
+platform: android
+minsdk: 3.1.1.GA
